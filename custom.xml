@@ -7,7 +7,7 @@
   <description>Example RSS feed</description>
   <item>
     <title>POST 1</title>
-    <guid isPermaLink="false">RANDOM_STRING</guid>
+    <guid isPermaLink="false">UNIQUE_RANDOM_STRING</guid>
     <link>https://github.com/link/to/post/1</link>
     <description>Content of post 1</description>
   </item>
