@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-
 <channel>
   <title>Example RSS feed</title>
   <atom:link href="https://wlandau.github.io/rss-test/custom.xml" rel="self" type="application/rss+xml"/>
@@ -13,5 +12,4 @@
     <description>Content of post 1</description>
   </item>
 </channel>
-
 </rss>
