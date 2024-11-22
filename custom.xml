@@ -3,12 +3,12 @@
 
 <channel>
   <title>Example RSS feed</title>
-  <link>https://wlandau.github.io/rss-test/index.html</link>
+  <link>https://github.com</link>
   <description>Example RSS feed</description>
   <item>
     <title>post1</title>
     <guid>post2</guid>
-    <link>https://wlandau.github.io/rss-test/index.html</link>
+    <link>https://github.com</link>
     <description>Content of post 1</description>
   </item>
 </channel>
