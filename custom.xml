@@ -3,12 +3,12 @@
 <channel>
   <title>Example RSS feed</title>
   <atom:link href="https://wlandau.github.io/rss-test/custom.xml" rel="self" type="application/rss+xml"/>
-  <link>https://github.com</link>
+  <link>https://wlandau.github.io/rss-test/index.html</link>
   <description>Example RSS feed</description>
   <item>
-    <title>post1</title>
-    <guid isPermaLink="false">post1</guid>
-    <link>https://github.com</link>
+    <title>POST 1</title>
+    <guid isPermaLink="false">RANDOM_STRING</guid>
+    <link>https://github.com/link/to/post/1</link>
     <description>Content of post 1</description>
   </item>
 </channel>
