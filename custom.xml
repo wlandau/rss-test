@@ -3,6 +3,7 @@
 
 <channel>
   <title>Example RSS feed</title>
+  <link>https://wlandau.github.io/rss-test/index.html</link>
   <description>Example RSS feed</description>
   <item>
     <title>Post 1</title>
