@@ -7,10 +7,9 @@
   <description>Example RSS feed</description>
   <item>
     <title>POST 2</title>
-    <guid isPermaLink="false">hash of description</guid>
+    <guid isPermaLink="false">hash2</guid>
     <link>https://github.com/link/to/post/2</link>
     <description>Content of\n\npost 1</description>
-    <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
