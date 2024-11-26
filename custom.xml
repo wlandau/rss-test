@@ -9,7 +9,7 @@
     <title>POST 1</title>
     <guid isPermaLink="false">UNIQUE_RANDOM_STRING</guid>
     <link>https://github.com/link/to/post/1</link>
-    <description>Content of post 1</description>
+    <description>Content of\n\npost 1</description>
   </item>
 </channel>
 </rss>
