@@ -7,9 +7,9 @@
   <description>Example RSS feed 2d</description>
   <item>
     <title>POST 3</title>
-    <guid isPermaLink="false">3</guid>
+    <guid isPermaLink="false">4</guid>
     <link>https://github.com/link/to/post/2</link>
-    <description>Content of<br><br>post 3</description>
+    <description>Content of\n\npost 4</description>
   </item>
 </channel>
 </rss>
