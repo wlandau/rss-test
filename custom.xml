@@ -7,9 +7,9 @@
   <description>feed description</description>
   <item>
     <title>item title</title>
-    <guid isPermaLink="false">item_guid</guid>
+    <guid isPermaLink="false">item_guid2</guid>
     <link>https://github.com/link/to/item</link>
-    <description>item description</description>
+    <description>item description 2</description>
   </item>
 </channel>
 </rss>
