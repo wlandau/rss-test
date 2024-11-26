@@ -6,7 +6,7 @@
   <link>https://wlandau.github.io/rss-test/index.html</link>
   <description>Example RSS feed</description>
   <item>
-    <title>POST 1</title>
+    <title>POST 2</title>
     <guid isPermaLink="false">hash of description</guid>
     <link>https://github.com/link/to/post/1</link>
     <description>Content of\n\npost 1</description>
